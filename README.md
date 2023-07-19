@@ -19,9 +19,11 @@ composer install
 Create a copy of the .env.example file and rename it to .env. Update the file with your database credentials and any other required configurations:
 
 php artisan migrate
+
 Start the development server:
 
 php artisan serve
+
 Access the application in your browser at http://localhost:8000.
 
 Usage
