@@ -1,5 +1,6 @@
 Shopping-Cart Laravel Project
 This is a Laravel project for implementing a shopping cart functionality. It provides the necessary features to manage products, add them to the cart, and process orders.
+
 Features
 
 Shopping cart functionality: add products to the cart, update quantities, and remove items
